@@ -1,0 +1,141 @@
+request_id,request_date,cash_balance,inventory_value,response,outcome
+1,2025-04-01,45121.45,4875.3,"Thank you for your order. We can confirm:
+- Glossy paper (for your ""A4 glossy paper""): 200 sheets at $0.20 each = $40.00; delivered by 2025-04-02, from stock
+- Cardstock (for your ""heavy cardstock (white)""): 100 sheets at $0.15 each = $15.00; delivered by 2025-04-02, from stock
+- Colored paper (for your ""colored paper (assorted colors)""): 100 sheets at $0.10 each = $10.00; delivered by 2025-04-02, from stock
+Subtotal $65.00. Discount 5%: orders of $50.00 or more receive our 5% volume discount. You save $3.25.
+Total due: $61.75.",fulfilled
+2,2025-04-03,45170.45,4875.3,"Thank you for your order. We can confirm:
+- Poster paper (for your ""colorful poster paper""): 500 sheets at $0.25 each = $125.00; delivered by 2025-04-08, via our supplier
+- Party streamers (for your ""streamers""): 300 units at $0.05 each = $15.00; delivered by 2025-04-08, via our supplier
+Subtotal $140.00. Discount 5%: orders of $50.00 or more receive our 5% volume discount. You save $7.00.
+Total due: $133.00.
+Not included:
+- balloons: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled
+3,2025-04-04,45328.61,4861.7,"Thank you for your order. We can confirm:
+- A4 paper (for your ""10,000 sheets of A4 paper""): 10,000 sheets at $0.05 each = $500.00; delivered by 2025-04-12, via our supplier
+Subtotal $500.00. Discount 10%: orders of $200.00 or more receive our 10% volume discount. You save $50.00.
+Total due: $450.00.
+Not included:
+- 5,000 sheets of A3 paper: we don't carry this item.
+- 500 reams of printer paper: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled
+4,2025-04-05,45346.39,4862.7,"Thank you for your order. We can confirm:
+- Recycled paper (for your ""500 sheets of high-quality, recycled cardstock in various colors""): 500 sheets at $0.08 each = $40.00; delivered by 2025-04-10, via our supplier
+- A4 paper (for your ""250 sheets of A4 size printer paper""): 250 sheets at $0.05 each = $12.50; delivered by 2025-04-06, from stock
+Subtotal $52.50. Discount 5%: orders of $50.00 or more receive our 5% volume discount. You save $2.62.
+Total due: $49.88.",fulfilled
+5,2025-04-05,45400.39,4825.2,"Thank you for your order. We can confirm:
+- Colored paper (for your ""500 sheets of 8.5""x11"" colored paper""): 500 sheets at $0.10 each = $50.00; delivered by 2025-04-06, from stock
+- Decorative adhesive tape (washi tape) (for your ""200 rolls of decorative washi tape""): 200 units at $0.20 each = $40.00; delivered by 2025-04-10, via our supplier
+Subtotal $90.00. Discount 5%: orders of $50.00 or more receive our 5% volume discount. You save $4.50.
+Total due: $85.50.
+Not included:
+- 300 sheets of cardstock in various colors: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled
+6,2025-04-06,45428.89,4825.2,"Thank you for your order. We can confirm:
+- Construction paper (for your ""colorful construction paper""): 500 sheets at $0.07 each = $35.00; delivered by 2025-04-11, via our supplier
+- 250 gsm cardstock (for your ""cardstock in various colors""): 200 sheets at $0.30 each = $60.00; delivered by 2025-04-11, via our supplier
+Subtotal $95.00. Discount 10%: orders of $50.00 or more receive our 5% volume discount, and we have matched the 10% we gave on comparable past orders of this size. You save $9.50.
+Total due: $85.50.
+Not included:
+- white printer paper: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled
+7,2025-04-07,45802.329999999994,4417.8,"Thank you for your order. We can confirm:
+- Glossy paper (for your ""500 sheets of glossy A4 paper""): 500 sheets at $0.20 each = $100.00; delivered by 2025-04-12, via our supplier
+- Large poster paper (24x36 inches) (for your ""300 poster boards (24"" x 36"")""): 300 units at $1.00 each = $300.00; delivered by 2025-04-08, from stock
+- Cardstock (for your ""200 sheets of heavyweight cardstock""): 200 sheets at $0.15 each = $30.00; delivered by 2025-04-08, from stock
+Subtotal $430.00. Discount 10%: orders of $200.00 or more receive our 10% volume discount. You save $43.00.
+Total due: $387.00.
+Not included:
+- 1000 sheets of matte A3 paper: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled
+8,2025-04-07,45958.329999999994,4417.8,"Thank you for your order. We can confirm:
+- Glossy paper (for your ""A4 glossy paper""): 500 sheets at $0.20 each = $100.00; delivered by 2025-04-12, via our supplier
+- Matte paper (for your ""A4 matte paper""): 1,000 sheets at $0.18 each = $180.00; delivered by 2025-04-12, via our supplier
+- Recycled paper (for your ""A4 recycled paper""): 3,000 sheets at $0.08 each = $240.00; delivered by 2025-04-15, via our supplier
+Subtotal $520.00. Discount 10%: orders of $200.00 or more receive our 10% volume discount. You save $52.00.
+Total due: $468.00.
+Not included:
+- A5 colored paper: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled
+9,2025-04-07,45933.049999999996,4466.6,"Thank you for your order. We can confirm:
+- A4 paper (for your ""A4 white printer paper""): 200 sheets at $0.05 each = $10.00; delivered by 2025-04-08, from stock
+Subtotal $10.00. No discount applies: volume discounts start at $50.00.
+Total due: $10.00.
+Not included:
+- A3 glossy paper: we don't carry this item.
+- 100% recycled kraft paper envelopes: we sell this item individually, so we need the number of single items rather than packs.
+You will only be charged for the items confirmed above.",partially fulfilled
+13,2025-04-08,45957.049999999996,4446.6,"Thank you for your order. We can confirm:
+- Cardstock (for your ""200 sheets of cardstock""): 200 sheets at $0.15 each = $30.00; delivered by 2025-04-09, from stock
+Subtotal $30.00. No discount applies: volume discounts start at $50.00.
+Total due: $30.00.
+Not included:
+- 500 sheets of A4 printing paper: the earliest we can deliver 500 sheets is 2025-04-13, after your date of 2025-04-10.
+You will only be charged for the items confirmed above.",partially fulfilled
+12,2025-04-08,45975.159999999996,4446.75,"Thank you for your order. We can confirm:
+- Cardstock (for your ""200 sheets of colorful cardstock""): 200 sheets at $0.15 each = $30.00; delivered by 2025-04-09, from stock
+- Standard copy paper (for your ""500 sheets of standard printer paper""): 500 sheets at $0.04 each = $20.00; delivered by 2025-04-13, via our supplier
+- Paper napkins (for your ""100 paper napkins""): 100 units at $0.02 each = $2.00; delivered by 2025-04-10, via our supplier
+Subtotal $52.00. Discount 5%: orders of $50.00 or more receive our 5% volume discount. You save $2.60.
+Total due: $49.40.",fulfilled
+10,2025-04-08,46069.83,4373.55,"Thank you for your order. We can confirm:
+- Glossy paper (for your ""high-quality glossy paper""): 500 sheets at $0.20 each = $100.00; delivered by 2025-04-13, via our supplier
+- Cardstock (for your ""sturdy cardstock""): 300 sheets at $0.15 each = $45.00; delivered by 2025-04-09, via our supplier
+Subtotal $145.00. Discount 5%: orders of $50.00 or more receive our 5% volume discount. You save $7.25.
+Total due: $137.75.",fulfilled
+11,2025-04-08,46007.91,4476.75,"Thank you for your request. Unfortunately we cannot fulfil this order:
+- 500 sheets of A3 glossy paper: we don't carry this item.
+- 300 sheets of A4 matte paper: we don't carry this item.
+If a later delivery date works for you, reply and we will quote again.",not fulfilled
+14,2025-04-09,46057.05,4432.35,"Thank you for your order. We can confirm:
+- Cardstock (for your ""500 sheets of cardstock""): 500 sheets at $0.15 each = $75.00; delivered by 2025-04-14, via our supplier
+Subtotal $75.00. Discount 10%: orders of $50.00 or more receive our 5% volume discount, and we have matched the 10% we gave on comparable past orders of this size. You save $7.50.
+Total due: $67.50.
+Not included:
+- 5,000 sheets of A4 paper: the earliest we can deliver 5,000 sheets is 2025-04-17, after your date of 2025-04-15.
+- 2,000 sheets of poster paper in various colors: the earliest we can deliver 2,000 sheets is 2025-04-17, after your date of 2025-04-15.
+You will only be charged for the items confirmed above.",partially fulfilled
+15,2025-04-12,46030.41,4476.75,"Thank you for your request. Unfortunately we cannot fulfil this order:
+- 10,000 sheets of A4 white paper: the earliest we can deliver 10,000 sheets is 2025-04-20, after your date of 2025-04-15.
+- 5,000 sheets of A3 colored paper (assorted colors): we don't carry this item.
+- 500 reams of cardboard for signage: we don't carry this item.
+If a later delivery date works for you, reply and we will quote again.",not fulfilled
+16,2025-04-13,46030.41,4476.75,"Thank you for your request. Unfortunately we cannot fulfil this order:
+- 500 sheets of A4 printer paper: the earliest we can deliver 500 sheets is 2025-04-18, after your date of 2025-04-15.
+- 200 sheets of colorful construction paper: the earliest we can deliver 200 sheets is 2025-04-18, after your date of 2025-04-15.
+- 100 sheets of poster board: we don't carry this item.
+If a later delivery date works for you, reply and we will quote again.",not fulfilled
+17,2025-04-14,46077.91,4426.75,"Thank you for your order. We can confirm:
+- Paper plates (for your ""500 paper plates (biodegradable)""): 500 units at $0.10 each = $50.00; delivered by 2025-04-15, from stock
+Subtotal $50.00. Discount 5%: orders of $50.00 or more receive our 5% volume discount. You save $2.50.
+Total due: $47.50.
+Not included:
+- 1000 sheets of A4 white printer paper: the earliest we can deliver 1,000 sheets is 2025-04-19, after your date of 2025-04-15.
+- 500 sheets of A3 colored paper (assorted colors): we don't carry this item.
+- 2000 table napkins (white): the earliest we can deliver 2,000 units is 2025-04-22, after your date of 2025-04-15.
+- 1000 paper cups (biodegradable): the earliest we can deliver 1,000 units is 2025-04-19, after your date of 2025-04-15.
+You will only be charged for the items confirmed above.",partially fulfilled
+18,2025-04-14,46077.91,4426.75,"Thank you for your request. Unfortunately we cannot fulfil this order:
+- high-quality white cardstock: the earliest we can deliver 500 sheets is 2025-04-19, after your date of 2025-04-15.
+- standard printing paper: the earliest we can deliver 1,000 sheets is 2025-04-19, after your date of 2025-04-15.
+- colored paper in assorted colors: the earliest we can deliver 200 sheets is 2025-04-16, after your date of 2025-04-15.
+If a later delivery date works for you, reply and we will quote again.",not fulfilled
+19,2025-04-15,46119.19,4407.95,"Thank you for your order. We can confirm:
+- Colored paper (for your ""cardstock in assorted colors""): 1,000 sheets at $0.10 each = $100.00; delivered by 2025-04-20, via our supplier
+Subtotal $100.00. Discount 10%: orders of $50.00 or more receive our 5% volume discount, and we have matched the 10% we gave on comparable past orders of this size. You save $10.00.
+Total due: $90.00.
+Not included:
+- A4 glossy paper: the earliest we can deliver 2,000 sheets is 2025-04-23, after your date of 2025-04-20.
+- A3 matte paper: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled
+20,2025-04-17,46464.53,4436.55,"Thank you for your order. We can confirm:
+- Flyers (for your ""5,000 flyers""): 5,000 units at $0.15 each = $750.00; delivered by 2025-04-25, via our supplier
+- 220 gsm poster paper (for your ""2,000 posters""): 2,000 sheets at $0.35 each = $700.00; delivered by 2025-04-25, via our supplier
+Subtotal $1,450.00. Discount 15%: orders of $1,000.00 or more receive our 15% volume discount. You save $217.50.
+Total due: $1,232.50.
+Not included:
+- 10,000 tickets: we don't carry this item.
+You will only be charged for the items confirmed above.",partially fulfilled

@@ -1,0 +1,8 @@
+# Local secrets: the API key lives only in .env
+.env
+# Created by running project_starter.py
+munder_difflin.db
+# Python environment and caches
+.venv/
+__pycache__/
+.DS_Store
